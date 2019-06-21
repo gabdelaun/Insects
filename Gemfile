@@ -11,7 +11,7 @@ end
 group :test do
   gem 'sqlite3', '~>1.4.1'
 end
-
+gem 'sqlite3' , '~>1.4.1'
 
 
 # Use Puma as the app server
