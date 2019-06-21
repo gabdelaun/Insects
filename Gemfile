@@ -8,7 +8,7 @@ group :development, :production do
   gem 'pg', '0.15.1'
 end
 
-roup :test do
+group :test do
   gem 'sqlite3', '~>1.4.1'
 end
 
